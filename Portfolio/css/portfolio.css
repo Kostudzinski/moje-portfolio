@@ -1,0 +1,9 @@
+* {
+    margin: none;
+}
+
+#porfolio {
+    background-image: url(../PRTFL%20done%20.pdf);
+    width: 100%;
+    height: auto;
+}
