@@ -43,7 +43,7 @@ function changePosition() {
         $('.neondwa').removeClass('active');
     }    
     
-    if ($(window).scrollTop() >= 1350){
+    if ($(window).scrollTop() >= 1100){
         $('#lewykloc').addClass('lewykloc');
     }
     
