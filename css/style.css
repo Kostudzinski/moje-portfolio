@@ -87,7 +87,7 @@ font-family: 'Ropa Sans', sans-serif;
 /*SEKACJA TOP*/
 
 #front {
-    width: 100vw;
+    width: 100%;
     height: 1700px;
     background-image: url(../img/Cover/FRONTdone.png);
     background-size: cover;
@@ -98,7 +98,7 @@ font-family: 'Ropa Sans', sans-serif;
 }
 
 #back {
-    width: 100vw;
+    width: 100%;
     height: 1700px;
     background-image: url(../img/Cover/BACKdone.png);
     background-size: cover;
